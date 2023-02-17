@@ -1,0 +1,17 @@
+.pointer {
+    cursor: pointer;
+}
+
+.navbar-icon {
+    color: #fff;
+}
+
+body {
+    background: #ededed;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.card-altura {
+    height: 200px;
+}
